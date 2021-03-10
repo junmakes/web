@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-publishDir = "docs"
+publishDir = "../docs"
 canonifyurls = true
 baseURL = "https://junmakes.github.io/web/imayomo"
 title = "Bigspring Hugo"
