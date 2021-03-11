@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 publishDir = "./"
 canonifyurls = true
-baseURL = "https://junmakes.github.io/imayomo"
+baseURL = "https://junmakes.github.io/web/imayomo"
 title = "Bigspring Hugo"
 theme = "bigspring"
 # post pagination
